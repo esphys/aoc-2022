@@ -8,3 +8,4 @@ pub mod day06;
 // this file will append repeat mods and cause an issue.
 // so add a check to the add-day.sh script
 pub mod day07;
+pub mod day08;
