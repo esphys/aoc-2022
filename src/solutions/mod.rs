@@ -9,3 +9,4 @@ pub mod day06;
 // so add a check to the add-day.sh script
 pub mod day07;
 pub mod day08;
+pub mod day09;
