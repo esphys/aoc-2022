@@ -37,6 +37,9 @@ fn run_day(day: u8) {
     7 => solve!(day07),
     8 => solve!(day08),
     9 => solve!(day09),
+    10 => solve!(day10),
+    11 => solve!(day11),
+    12 => solve!(day12),
     // new days go here
     _ => panic!("Something went wrong. '{}' was not a valid day.", day),
   }
